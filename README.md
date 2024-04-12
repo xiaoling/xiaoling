@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**xiaoling/xiaoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://xiaoling.github.io" target="_blank">
+    [[https://luke.hsiao.dev](https://xiaoling.github.io)](https://xiaoling.github.io)
+  </a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<a href="#x">
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=xiaoling&show_icons=true&theme=transparent"/>
+</a>
+&nbsp;
+<a href="#x">
+<img width="41.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoling&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook"/>
+</a>
+</div>
