@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://xiaoling.github.io" target="_blank">
-    [https://xiaoling.github.io](https://xiaoling.github.io)
+    https://xiaoling.github.io
   </a>  
 </p>
 
